@@ -16,7 +16,7 @@ https: app.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "https://fullstack-template-kcy7.onrender.com/",
+      "https://fullstack-template-project-frontend.vercel.app/",
     ],
     credentials: true,
   })
